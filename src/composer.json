@@ -1,0 +1,17 @@
+{
+    "name": "amirmahvari/docker",
+    "autoload": {
+        "psr-4": {
+            "Amirmahvari\\Docker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amir Abbas Mehvari",
+            "email": "amirabbas750@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
